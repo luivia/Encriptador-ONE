@@ -170,8 +170,6 @@ button#limpar:hover{
     background-color: #ff000050;
 }
 
-
-/*footer e nav*/
 footer{
     display: flex;
     flex-flow: column;
@@ -194,7 +192,6 @@ footer{
     width: 2em;
     margin: 0 5px;
 }
-/*aqui é a tag que aparece em cima da imagem*/
 .description {
     content: '';
     display: none;
